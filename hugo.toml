@@ -1,0 +1,4 @@
+baseURL = 'https://steventir.github.io/'
+locale = 'en-us'
+title = 'Steven Tir'
+theme = 'PaperMod'
