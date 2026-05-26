@@ -2,3 +2,15 @@ baseURL = 'https://steventir.github.io/'
 locale = 'en-us'
 title = 'Steven Tir'
 theme = 'PaperMod'
+
+[params.profileMode]
+enabled = true
+title = 'Steven Tir'
+
+[[params.profileMode.buttons]]
+name = 'Badminton'
+url = '/categories/badminton/'
+
+[[params.profileMode.buttons]]
+name = 'Engineering'
+url = '/categories/engineering/'
