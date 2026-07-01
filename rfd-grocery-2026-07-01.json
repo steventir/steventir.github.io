@@ -1,0 +1,66 @@
+{
+  "title": "[Multiple] Week of 2nd of July to 8th of July grocery round up (QUEBEC)",
+  "date": "2026-07-01",
+  "valid_from": "2026-07-02",
+  "valid_to": "2026-07-08",
+  "upvotes": null,
+  "author": "MTLGuru",
+  "source_url": "https://forums.redflagdeals.com/multiple-week-2nd-july-8th-july-grocery-round-up-quebec-2818764/",
+  "retrieval_note": "Forum host blocked by network proxy; item data sourced from Google search index snippets. Some entries may be incomplete.",
+  "stores": [
+    {
+      "name": "MAXI",
+      "items": [
+        { "price": "$3.98", "description": "Watermelon" },
+        { "price": "$5.99", "description": "Lean ground beef 450g" },
+        { "price": "$1.47", "description": "Broccoli crown" },
+        { "price": "$1.47", "description": "Iceberg lettuce" },
+        { "price": "$9.99/lb", "description": "Salmon fillet" },
+        { "price": "$5.98", "description": "Bernard maple syrup" },
+        { "price": "$6.98", "description": "PC ground coffee" },
+        { "price": "$2.75", "description": "Nutrient oil 3L" },
+        { "price": "$2.75", "description": "McCain fries" },
+        { "price": "$2.75", "description": "Breyers ice cream" },
+        { "price": "$4.00", "description": "English cucumber" },
+        { "price": "$8.98", "description": "Red Baron pizza" },
+        { "price": "$3.00", "description": "Gallo extra virgin olive oil 1L" },
+        { "price": "$1.88", "description": "Doritos" },
+        { "price": "$1.75", "description": "Dare crackers" },
+        { "price": "$4.00", "description": "Kale" }
+      ]
+    },
+    {
+      "name": "SUPER C",
+      "items": [
+        { "price": "$2.44", "description": "Quebec strawberries 750ml" },
+        { "price": "$7.99/lb", "description": "Top sirloin steak/roast" },
+        { "price": "$1.67", "description": "Selection butter" },
+        { "price": "$1.47", "description": "Blackberries" },
+        { "price": "$1.44", "description": "Selection pasta 900g" },
+        { "price": "$5.99", "description": "Marina Del Rey shrimps" },
+        { "price": "$1.44", "description": "Mushrooms" },
+        { "price": "$2.88", "description": "Iceberg lettuce" },
+        { "price": "$0.99", "description": "Parlour ice cream" },
+        { "price": "$1.99", "description": "Potatoes 3lb" },
+        { "price": "$5.99", "description": "Rustica pizza" },
+        { "price": "$0.99", "description": "Irresistibles ice cream" },
+        { "price": "$4.00 off", "description": "Select wine bottles" }
+      ]
+    },
+    {
+      "name": "IGA",
+      "items": [
+        { "price": "$1.97/lb", "description": "Cherries" },
+        { "price": "$6.88/lb", "description": "French steaks" },
+        { "price": "$2.99/lb", "description": "Pork loin chops" },
+        { "price": "$2.97", "description": "Cauliflower" },
+        { "price": "$5.47", "description": "Hygrade wieners" },
+        { "price": "$4.99", "description": "Ptit Quebec cheese" },
+        { "price": "$6.97", "description": "Cashmere toilet paper (12 = 24 rolls)" },
+        { "price": "$1.25", "description": "Kraft Singles 44-pack" },
+        { "price": "$1.25", "description": "Paris Pâté" },
+        { "price": null, "description": "Clover Leaf tuna can" }
+      ]
+    }
+  ]
+}
