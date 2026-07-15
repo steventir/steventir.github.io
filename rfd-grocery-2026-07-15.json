@@ -1,0 +1,66 @@
+{
+  "title": "Week of 9th of July to 15th of July grocery round up (QUEBEC)",
+  "date": "2026-07-08",
+  "upvotes": 14,
+  "source_url": "https://forums.redflagdeals.com/multiple-week-9th-july-15th-july-grocery-round-up-quebec-2819454/",
+  "posted_by": "MTLGuru",
+  "notes": "forums.redflagdeals.com returned HTTP 403; content recovered via Google search cache. Upvote count from search snippet.",
+  "stores": [
+    {
+      "name": "MAXI",
+      "bonus": "Jul 9–12: 20% back in PC Optimum points when redeeming 10,000+ points",
+      "items": [
+        { "price": "$1.99/lb", "description": "Cherries" },
+        { "price": "$1.99/lb", "description": "Chicken drums" },
+        { "price": "$0.77", "description": "Radish" },
+        { "price": "$1.00/lb", "description": "Zucchinis" },
+        { "price": "$1.00", "description": "Misc lettuce" },
+        { "price": "$1.99/lb", "description": "Plums/nectarines" },
+        { "price": "$16.00", "description": "PC TP 30-pack" },
+        { "price": "$4.50", "description": "Chapman's yogurt/treats" },
+        { "price": "$3.00", "description": "Black Diamond slices" },
+        { "price": "$3.00", "description": "Classico pasta sauce" },
+        { "price": "$5.22", "description": "Giuseppe pizza" },
+        { "price": "$8.99", "description": "Gallo EVOO 1L" },
+        { "price": "$1.88", "description": "Dare crackers" },
+        { "price": "$1.75", "description": "Kale" },
+        { "price": "$3.00", "description": "Liberté Greek yogurt 4-pack" }
+      ]
+    },
+    {
+      "name": "SUPER C",
+      "items": [
+        { "price": "$3.97", "description": "Oranges 5lb" },
+        { "price": "$2.97", "description": "Irresistibles pizza" },
+        { "price": "$1.47", "description": "Coke/Pepsi 2L" },
+        { "price": "$0.97/lb", "description": "Tomatoes" },
+        { "price": "$1.97/lb", "description": "Green grapes" },
+        { "price": "$9.77/lb", "description": "Salmon fillets" },
+        { "price": "$2.77/lb", "description": "Pork chops" },
+        { "price": "$1.47", "description": "Broccoli crowns" },
+        { "price": "$0.47", "description": "Potatoes 3lb (Tuesday only)" },
+        { "price": "$7.97", "description": "St-Hubert chicken/pot pies" },
+        { "price": "$1.97", "description": "Dare crackers" },
+        { "price": "$7.77", "description": "Gallo EVOO 1L" },
+        { "price": "$1.97", "description": "Kraft BBQ sauce" },
+        { "price": "$7.97", "description": "Kraft Singles 44-pack" },
+        { "price": "$2.47", "description": "Kraft salad dressing" }
+      ]
+    },
+    {
+      "name": "IGA",
+      "items": [
+        { "price": "$2.97", "description": "QC strawberries 1L" },
+        { "price": "$8.99/lb", "description": "Flamingo strips/wings" },
+        { "price": "$1.97/lb", "description": "Pork shoulder" },
+        { "price": "$8.77/lb", "description": "Top sirloin roast/steak" },
+        { "price": "$1.97", "description": "Romaine hearts" },
+        { "price": "$1.97", "description": "Broccoli" },
+        { "price": "$3.00", "description": "Mushrooms 454g" },
+        { "price": "$5.97", "description": "Cracker Barrel cheese" },
+        { "price": "$3.47", "description": "Ristorante pizza" },
+        { "price": "$1.69", "description": "Ruffles" }
+      ]
+    }
+  ]
+}
