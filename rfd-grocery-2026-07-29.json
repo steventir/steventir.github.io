@@ -1,0 +1,49 @@
+{
+  "title": "Week of 16th of July to 22nd of July grocery round up (QUEBEC)",
+  "date": "2026-07-16",
+  "upvotes": null,
+  "source_url": "https://forums.redflagdeals.com/multiple-week-16th-july-22nd-july-grocery-round-up-quebec-2820074/",
+  "posted_by": "MTLGuru",
+  "notes": "forums.redflagdeals.com returned HTTP 403 on 2026-07-29. Only MAXI data partially recovered via search snippets. Super C, IGA, Metro, Walmart, Provigo data not available. A July 23-29 post may exist but was not found in search results at time of run.",
+  "stores": [
+    {
+      "name": "MAXI",
+      "items": [
+        { "price": "$1.65/lb", "description": "Cherries" },
+        { "price": "$4.44", "description": "No Name cheese" },
+        { "price": "$5.00/lb", "description": "T-bone/wing steak" },
+        { "price": "$0.88", "description": "Chicken thighs" },
+        { "price": "$1.00/lb", "description": "Mangos" },
+        { "price": "$1.00/lb", "description": "Vine tomatoes" },
+        { "price": "$1.22/lb", "description": "Green zucchinis" },
+        { "price": "$2.00", "description": "Yellow peaches" },
+        { "price": "$3.00", "description": "No Name chicken wieners" }
+      ]
+    },
+    {
+      "name": "SUPER C",
+      "items": [],
+      "error": "Data not retrieved — site returned 403 Forbidden"
+    },
+    {
+      "name": "IGA",
+      "items": [],
+      "error": "Data not retrieved — site returned 403 Forbidden"
+    },
+    {
+      "name": "METRO",
+      "items": [],
+      "error": "Data not retrieved — site returned 403 Forbidden"
+    },
+    {
+      "name": "WALMART",
+      "items": [],
+      "error": "Data not retrieved — site returned 403 Forbidden"
+    },
+    {
+      "name": "PROVIGO",
+      "items": [],
+      "error": "Data not retrieved — site returned 403 Forbidden"
+    }
+  ]
+}
