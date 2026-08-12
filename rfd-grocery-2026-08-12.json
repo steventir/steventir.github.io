@@ -1,0 +1,50 @@
+{
+  "title": "[Multiple] Week of 9th of July to 15th of July grocery round up (QUEBEC)",
+  "date": "2026-07-09",
+  "upvotes": null,
+  "source_url": "https://forums.redflagdeals.com/multiple-week-9th-july-15th-july-grocery-round-up-quebec-2819454/",
+  "note": "Generated 2026-08-12. Direct access to forums.redflagdeals.com was blocked by egress proxy (403 policy denial). Data reconstructed from search snippets; may be incomplete. Latest confirmed 2026 post URL (content unavailable): https://forums.redflagdeals.com/multiple-week-16th-july-22nd-july-grocery-round-up-quebec-2820074/",
+  "stores": [
+    {
+      "name": "MAXI",
+      "items": [
+        { "price": "$1.99/lb", "description": "Cherries" },
+        { "price": "$1.99/lb", "description": "Chicken drums" },
+        { "price": "$0.77", "description": "Radish" },
+        { "price": "$1.00/lb", "description": "Zucchinis" },
+        { "price": "$1.00", "description": "Miscellaneous lettuce" },
+        { "price": "$1.99/lb", "description": "Plums / Nectarines" },
+        { "price": "$16.00", "description": "PC toilet paper (30 rolls = 100 sheets)" },
+        { "price": "$4.50", "description": "Chapman's yogurt / treats" },
+        { "price": "$3.00", "description": "Black Diamond slices" },
+        { "price": "$3.00", "description": "Classico pasta sauce" },
+        { "price": "$5.22", "description": "Giuseppe pizza" },
+        { "price": "$8.99", "description": "Gallo EVOO (1L)" },
+        { "price": "$1.88", "description": "Dare crackers" },
+        { "price": "$1.75", "description": "Kale" },
+        { "price": "$3.00", "description": "Liberté Greek yogurt (4-pack)" }
+      ]
+    },
+    {
+      "name": "SUPER C",
+      "items": [
+        { "price": "$3.97", "description": "Oranges (5 lb)" },
+        { "price": "$2.97", "description": "Irresistibles pizza" },
+        { "price": "$1.47", "description": "Coke / Pepsi (2L)" },
+        { "price": "$0.97/lb", "description": "Tomatoes" },
+        { "price": "$1.97/lb", "description": "Green grapes" },
+        { "price": "$9.77/lb", "description": "Salmon fillets" },
+        { "price": "$2.77/lb", "description": "Pork chops" },
+        { "price": "$1.47", "description": "Broccoli crowns" },
+        { "price": "$0.47", "description": "Potatoes (3 lb, Tuesday only)" },
+        { "price": "$7.97", "description": "St-Hubert chicken / pot pies" },
+        { "price": "$1.97", "description": "Dare crackers" },
+        { "price": "$7.77", "description": "Gallo EVOO (1L)" },
+        { "price": "$1.97", "description": "Kraft BBQ sauce" },
+        { "price": "$7.97", "description": "Kraft Singles (44-pack)" },
+        { "price": "$2.47", "description": "Kraft salad dressing" },
+        { "price": "$1.97", "description": "Lay's / Tostitos (regular size)" }
+      ]
+    }
+  ]
+}
