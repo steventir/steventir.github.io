@@ -1,0 +1,103 @@
+{
+  "title": "[Multiple] Week of 27th of August to 2nd of September grocery round up (QUEBEC)",
+  "date": "2026-08-27",
+  "upvotes": null,
+  "source_url": "https://forums.redflagdeals.com/tags/mtlguru-grocery/",
+  "note": "Generated 2026-09-02. Direct access to forums.redflagdeals.com blocked by egress proxy (403 policy denial). MTLGuru's post for this week was not found in search engine results (post may be too recent to index). Data reconstructed from weekly flyer aggregator search snippets for the week of August 27 – September 2, 2026. The last confirmed indexed MTLGuru post URL is: https://forums.redflagdeals.com/multiple-week-16th-july-22nd-july-grocery-round-up-quebec-2820074/",
+  "stores": [
+    {
+      "name": "MAXI",
+      "items": [
+        { "price": "$1.00/lb", "description": "Roma tomatoes" },
+        { "price": "$1.00/lb", "description": "Green bell peppers" },
+        { "price": "$1.77/lb", "description": "Seedless grapes (green or red)" },
+        { "price": "$1.00", "description": "Red mangoes" },
+        { "price": "$8.95/lb", "description": "Sirloin or strip steaks" },
+        { "price": "$2.50/lb", "description": "Whole fresh chicken" },
+        { "price": "$6.99", "description": "Dalisa pork sausage combo" },
+        { "price": "$1.00", "description": "Michelina's frozen prepared meals" },
+        { "price": "$1.00", "description": "Unico tomato paste / pizza sauce / olives or Clover Leaf tuna" },
+        { "price": "$3.49", "description": "Pepsi soft drink (2L, plus tax)" }
+      ]
+    },
+    {
+      "name": "SUPER C",
+      "items": [
+        { "price": "$3.77", "description": "Selection Mild Cheddar cheese" },
+        { "price": "$3.77", "description": "Lactose-Free Swiss cheese" },
+        { "price": "$1.25", "description": "St-Hubert BBQ and Poutine Gravy" },
+        { "price": "$1.99", "description": "Selection Choco Delish Delice bars" },
+        { "price": "$1.97", "description": "Quebec milk" },
+        { "price": "$3.97", "description": "Philadelphia cream cheese" },
+        { "price": "$1.99/lb", "description": "Quebec squashes" },
+        { "price": "$2.98", "description": "Quebec blueberries (551 ml)" },
+        { "price": "$2.99", "description": "Boston lettuce duo (Quebec, member price)" }
+      ]
+    },
+    {
+      "name": "IGA",
+      "items": [
+        { "price": "$1.67/lb", "description": "Seedless green grapes (with Scene+ card; $2.67/lb regular)" },
+        { "price": "$9.88/lb", "description": "Sterling Silver Top Sirloin Steak" },
+        { "price": "$7.88/lb", "description": "La Cage chicken wings, Spicy Honey (with Scene+; $8.88/lb regular)" },
+        { "price": "$8.96/lb", "description": "Canadian Atlantic salmon fillets" },
+        { "price": "$6.77/lb", "description": "Fresh boneless chicken breasts" },
+        { "price": "$4.99", "description": "Wild Blueberries (551 ml)" }
+      ]
+    },
+    {
+      "name": "METRO",
+      "items": [
+        { "price": "$5.44/lb", "description": "Watatow lean ground beef" },
+        { "price": "$2.77/lb", "description": "Boneless pork chops" },
+        { "price": "$3.49/lb", "description": "Levesque smoked ham" },
+        { "price": "$3.99", "description": "Hygrade Bar-B-Q Wieners (or 2 for $6.00)" },
+        { "price": "$8.99", "description": "Selection Black Forest smoked ham" },
+        { "price": "$2.44/lb", "description": "Extra-large seedless grapes (red, green, or black)" },
+        { "price": "$2.99", "description": "Quebec zucchini or yellow beans (bag)" },
+        { "price": "$3.99–$4.99", "description": "Zespri sweet yellow kiwis" },
+        { "price": "$1.99", "description": "Hass avocados (each)" },
+        { "price": "$0.99", "description": "Lemons and limes (each)" },
+        { "price": "$4.99", "description": "Cantaloupe" },
+        { "price": "$6.99", "description": "Whole seedless watermelon (~11 lb)" },
+        { "price": "$7.99", "description": "Ontario peaches (3L)" },
+        { "price": "$0.49", "description": "2-colour corn on the cob" },
+        { "price": "$0.88", "description": "Selection Light Tuna" },
+        { "price": "$2.77", "description": "Miss Vickies Original Recipe chips" }
+      ]
+    },
+    {
+      "name": "PROVIGO",
+      "items": [
+        { "price": "$5.97", "description": "Cracker Barrel 3 Cheese Pizza Shredded Cheese" },
+        { "price": "$1.25", "description": "Oasis Apple Juice or Berry Juice" },
+        { "price": "$5.00", "description": "Tre Stelle Bocconcini Light" },
+        { "price": "$3.00", "description": "President's Choice Cauliflower Riced Ready Veggie" },
+        { "price": "$15.00", "description": "Van Houtte Belgian Chocolate Light Roast Ground Coffee" }
+      ]
+    },
+    {
+      "name": "WALMART",
+      "items": [
+        { "price": "$2.48/lb", "description": "Large pork picnic roast" },
+        { "price": "$4.98", "description": "Large seedless watermelons" },
+        { "price": "$5.44", "description": "2L nectarines or 3L peaches (per pack)" },
+        { "price": "$1.94", "description": "Mini cucumbers or mini carrots (bag)" },
+        { "price": "$2.94", "description": "White cauliflower or broccoli stalks" },
+        { "price": "$1.92/lb", "description": "Bulk green peppers" },
+        { "price": "$3.84", "description": "Raspberries or blackberries" },
+        { "price": "$4.44", "description": "Strawberries" },
+        { "price": "$1.92/lb", "description": "Large eggplant or zucchini" },
+        { "price": "$4.86", "description": "Bag of mandarins" },
+        { "price": "$2.44", "description": "Fresh Market whole white or cremini mushrooms" },
+        { "price": "$2.98", "description": "Fresh Market sliced deli meat" },
+        { "price": "$7.97", "description": "Great Value smoked sausages" },
+        { "price": "$2.47", "description": "Nutri-Grain bars or Rice Krispies squares (box)" },
+        { "price": "$2.97", "description": "Hygrade wieners" },
+        { "price": "$5.24", "description": "Great Value sparkling water (12-pack of 355 mL cans, taxable)" },
+        { "price": "$1.00", "description": "Allen's juice" },
+        { "price": "$2.47", "description": "Yoplait Tubes yogurt" }
+      ]
+    }
+  ]
+}
